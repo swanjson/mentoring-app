@@ -30,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A repository for the creation / demonstration of parts of a web application in Node.js with React.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeTheReader/mentoring-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeTheReader/mentoring-app/issues"
+  },
+  "homepage": "https://github.com/MikeTheReader/mentoring-app#readme"
 }

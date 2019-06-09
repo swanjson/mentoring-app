@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload. Here are some changes.
+          Trying to build my cam recommender!
         </p>
         <QueryComponent />
       </header>

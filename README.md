@@ -11,3 +11,8 @@ A repository for the creation / demonstration of parts of a web application in N
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### 2019_06_09
+
+- Cloned and had to use npm install to install code_modules because they were included on the gitignore.
+
