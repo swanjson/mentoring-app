@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Trying to build my cam recommender!
+          Let's build your rack!
         </p>
         <QueryComponent />
       </header>
